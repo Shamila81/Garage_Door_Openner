@@ -1,2 +1,1 @@
-# Garage_Door_Openner
-Implemented an automated door opener with calibration via limit switches and rotary encoder. Added MQTT status reporting (door, error, calibration states), local button control, stuck-door detection, and LED indicators for states and errors. Remote and local operation work only when calibrated.
+## This is for Private files
